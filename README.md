@@ -20,6 +20,7 @@ git clone https://github.com/MainShayne233/javascript-library-boilerplate very_h
 
 # enter project, re-initialize git, and install dependencies
 cd very_helpful_library
+rm -rf .git
 git init
 npm i
 
